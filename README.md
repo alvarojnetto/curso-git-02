@@ -12,7 +12,7 @@ A Licença MIT é um modelo de licenciamento de software livre altamente permiss
 
 ## Tópico extra somente para teste
 
-Agora, alteração de tópico para testar o git fetch.
+Ainda não deu conflito, mas agora vai dar.
 
 ## Créditos e Referências
 
